@@ -1,1 +1,4 @@
+# vim temp files
+*.swp
+
 .ipynb_checkpoints
